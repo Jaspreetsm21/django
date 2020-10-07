@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'the_weather.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd6el41rmtk39ka',
-        'HOST' : 'ec2-54-210-128-153.compute-1.amazonaws.com',
+        'NAME': 'd2bfs8qo06tttm',
+        'HOST' : 'ec2-54-228-209-117.eu-west-1.compute.amazonaws.com',
         'PORT' : 5432,
-        'USER' : 'lgojvedpmcpvtb',
-        'PASSWORD' : 'e3faeb9d776b4369cb3d1efa88eee603b020cbab0395801fc3f470c24f9e8d95'
+        'USER' : 'zcamrswdumqyxc',
+        'PASSWORD' : 'a137a357a5f439acf2201f3d329a8a9445a4063e2661c5705ade70d229fa8af7'
     }
 }
 
